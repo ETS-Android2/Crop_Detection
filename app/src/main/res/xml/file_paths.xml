@@ -1,0 +1,4 @@
+<paths>
+    <external-files-path name="DetectedCrops" path="Pictures"/>
+    <external-path name="detections" path="/"/>
+</paths>

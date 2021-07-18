@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Crop Detection</string>
+    <string name="str_capture">Capture Crop Image</string>
+    <string name="str_exit">Exit Application</string>
+    <string name="str_btn_predict">Predict Crop</string>
+    <string name="str_hint_tap">Click on above icon for capturing image</string>
+    <string name="str_hov_capture">Capture image of a crop</string>
+    <string name="str_hov_upload">Upload image of crop</string>
+</resources>
